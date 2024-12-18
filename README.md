@@ -2,7 +2,7 @@
 
 # Project Overview
 The Kidney Stone Detection System is a machine learning-based solution designed to predict the presence of kidney stones before symptoms appear. By analyzing urine's physical characteristics, the system leverages supervised learning classifiers to identify potential abnormalities. This project aims to provide a cost-effective and non-invasive early detection method, minimizing reliance on imaging techniques like CT scans.
-See full paper - "https://emerginginvestigators.org/articles/23-066"
+See full paper - https://emerginginvestigators.org/articles/23-066
 
 #### Tools and Libraries Used
 **Programming Language:**
