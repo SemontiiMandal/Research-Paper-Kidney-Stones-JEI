@@ -25,7 +25,7 @@ _**Dataset Features:**_
 pH Level,
 Calcium Concentration,
 Urine Specific Gravity,
-Other relevant physical and chemical characteristics;
+other relevant physical and chemical characteristics;
 The dataset was preprocessed to remove missing values, standardize feature scales, and shuffle for unbiased training and testing.
 
 **Methodology**
