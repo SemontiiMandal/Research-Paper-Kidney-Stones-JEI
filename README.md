@@ -22,10 +22,10 @@ Source: The data were obtained from the laboratory of James S. Elliot M.D. of th
 (Credit: Andrews, D.F., Herzberg, A.M. (1985). Physical Characteristics of Urines With and Without Crystals. In: Data. Springer Series in Statistics. Springer, New York, NY. https://doi.org/10.1007/978-1-4612-5098-2_45)
 
 _**Dataset Features:**_
-pH Level
-Calcium Concentration
-Urine Specific Gravity
-Other relevant physical and chemical characteristics.
+pH Level,
+Calcium Concentration,
+Urine Specific Gravity,
+Other relevant physical and chemical characteristics;
 The dataset was preprocessed to remove missing values, standardize feature scales, and shuffle for unbiased training and testing.
 
 **Methodology**
